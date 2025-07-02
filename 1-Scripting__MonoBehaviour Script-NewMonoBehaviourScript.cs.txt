@@ -1,0 +1,23 @@
+// ════════════════ [ SCRIPT HEADER ] ════════════════
+// > Script   : Name this script
+// > Author   : Murillo Gomes Yonamine
+// > Date     : 00/00/0000 | 00:00
+// > Purpose  : Describe this script
+// ════════════════════════════════════════════════════
+
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    void Start()
+    {
+        #NOTRIM#
+    }
+
+    void Update()
+    {
+        #NOTRIM#
+    }
+}
+#ROOTNAMESPACEEND#
