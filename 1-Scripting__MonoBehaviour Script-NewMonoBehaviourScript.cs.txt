@@ -1,5 +1,5 @@
 // ════════════════ [ SCRIPT HEADER ] ════════════════
-// > Script   : Name this script
+// > Script   : #SCRIPTNAME#.cs
 // > Author   : Murillo Gomes Yonamine
 // > Date     : 00/00/0000 | 00:00
 // > Purpose  : Describe this script
